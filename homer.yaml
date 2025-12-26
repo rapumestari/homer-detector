@@ -1,0 +1,10 @@
+# homer.yaml
+path: homer/project
+
+train: images/train
+val: images/val
+
+nc: 2
+names:
+  0: homer
+  1: non_homer
